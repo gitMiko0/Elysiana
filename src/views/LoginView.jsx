@@ -141,7 +141,7 @@ const LoginBox = ({ isRegistering, setIsRegistering, email, setEmail, password, 
         className="w-[260px] h-[60px] mt-6 bg-[#241103] rounded-2xl text-white text-xl capitalize"
         onClick={handleButtonClick}
       >
-        {isRegistering ? "Register" : "Sign In"}
+        {isRegistering ? "Register" : "Unfinished Feature - Click here to explore the app"}
       </button>
     </motion.div>
   );
