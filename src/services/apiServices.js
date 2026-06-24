@@ -1,5 +1,5 @@
 const API_URL = "https://nodea1.onrender.com/api";
-const API_URL_V2 = "https://elysiana-backend.up.railway.app/api";
+const API_URL_V2 = "https://elysianabackend.vercel.app/api";
 
 /**
  * Generic function to fetch data from a given endpoint.
